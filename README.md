@@ -15,11 +15,10 @@ I'm Kushal Sharma, a passionate tech enthusiast and B.Tech undergrad from India.
 
 ---
 
-### 💻 Tech Stack
+## 🛠️ Languages and Tools:
 
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=black)
-![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chartdotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
@@ -30,12 +29,18 @@ I'm Kushal Sharma, a passionate tech enthusiast and B.Tech undergrad from India.
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-2E86AB?logo=data&logoColor=white)
+![FAISS](https://img.shields.io/badge/-FAISS-0099CC?logo=data&logoColor=white)
+![Pinecone](https://img.shields.io/badge/-Pinecone-0070f3?logo=data&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21F?logo=huggingface&logoColor=black)
 
----
 
 ### 📊 GitHub Stats
 
