@@ -18,7 +18,6 @@ I'm Kushal Sharma, a passionate tech enthusiast and B.Tech undergrad from India.
 ## 🛠️ Languages and Tools:
 
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
-![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=black)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
