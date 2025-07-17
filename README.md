@@ -17,8 +17,6 @@ I'm Kushal Sharma, a passionate tech enthusiast and B.Tech undergrad from India.
 
 ### 💻 Tech Stack
 
-<div align="center">
-## 🛠️ Languages and Tools:
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=black)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chartdotjs&logoColor=white)
@@ -36,8 +34,6 @@ I'm Kushal Sharma, a passionate tech enthusiast and B.Tech undergrad from India.
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-
-</div>
 
 ---
 
