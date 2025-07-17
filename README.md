@@ -44,8 +44,8 @@ I'm Kushal Sharma, a passionate tech enthusiast and B.Tech undergrad from India.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushalshrm&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushalshrm&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kushal4345&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal4345&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
