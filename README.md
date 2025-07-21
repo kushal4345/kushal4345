@@ -53,5 +53,5 @@ I'm Kushal Sharma, a passionate tech enthusiast and B.Tech undergrad from India.
 ### 📫 Contact Me
 
 - Portfolio: [kushalsharma.vercel.app](https://kushalsharma.vercel.app)
-- Twitter: (https://x.com/byte_beat4345)
+- Twitter:   https://x.com/byte_beat4345
 - LinkedIn: [Kushal Sharma](https://www.linkedin.com/in/kushalshrm/)
